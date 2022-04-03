@@ -3,7 +3,7 @@ import Container from "@mui/material/Container";
 const Homepage = () => {
   return (
     <Container maxWidth="sm">
-    <h1>Change these pages</h1>
+    <h1>Home Page</h1>
     <p>
       Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia placeat, aut quasi eos delectus cumque tempora quae. Corrupti qui veritatis laborum quae dolores repudiandae odio doloremque explicabo velit voluptates. Itaque.
       Perspiciatis eveniet dolores nostrum nobis voluptate est sint veniam incidunt non quidem sequi, accusantium laboriosam nulla. Eveniet expedita eaque laborum placeat porro. Iure fugiat ipsa ipsam, vel voluptates soluta eos?
